@@ -51,6 +51,6 @@ NX into the existing system architecture.
 ## Demo
 
 ### Hardware Design
-![Embedded Mapper V3.0(assets/Embedded_Mapper_design.png)](https://www.youtube.com/watch?v=YaUBQlXzU-k)
+[![Embedded Mapper V3.0](assets/Embedded_Mapper_design.png)](https://www.youtube.com/watch?v=YaUBQlXzU-k)
 
 
